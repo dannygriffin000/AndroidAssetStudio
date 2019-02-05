@@ -17,7 +17,7 @@
     "gulp-imagemin": "^4.1.0",
     "gulp-load-plugins": "^1.5.0",
     "gulp-minify-html": "^1.0.6",
-    "gulp-nucleus": "0.1.0",
+    "gulp-nucleus": "0.1.1",
     "gulp-replace": "^1.0.0",
     "gulp-sass": "^4.0.1",
     "gulp-sass-glob": "^1.0.9",
