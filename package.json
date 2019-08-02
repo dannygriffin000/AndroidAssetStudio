@@ -27,7 +27,7 @@
     "merge-stream": "^1.0.1",
     "pretty-bytes": "^5.1.0",
     "run-sequence": "^2.2.1",
-    "webpack": "^4.16.1",
+    "webpack": "^4.39.0",
     "workbox-build": "^3.4.1"
   },
   "engines": {
