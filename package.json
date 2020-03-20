@@ -40,7 +40,7 @@
     "jszip": "^3.1.5",
     "react-color": "^2.14.1",
     "react-dom": "^16.8.4",
-    "react": "^16.4.1",
+    "react": "^16.13.1",
     "tinycolor2": "^1.4.1",
     "webfontloader": "^1.6.28"
   }
