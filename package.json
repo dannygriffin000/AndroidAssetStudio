@@ -28,7 +28,7 @@
     "pretty-bytes": "^5.1.0",
     "run-sequence": "^2.2.1",
     "webpack": "^4.16.1",
-    "workbox-build": "^3.4.1"
+    "workbox-build": "^6.1.0"
   },
   "engines": {
     "node": ">=0.10.0"
